@@ -1,0 +1,6 @@
+{
+  "appId": "com.cafe.priceapp",
+  "appName": "مدیریت کافه",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}

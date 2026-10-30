@@ -1,0 +1,10 @@
+{
+  "name": "مدیریت کافه",
+  "short_name": "کافه",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#faf8f0",
+  "theme_color": "#064e3b",
+  "lang": "fa",
+  "dir": "rtl"
+}
